@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "doc-test"
+  description: "Test description"
+  annotations:
+    github.com/project-slug: Dviejopomata/backstage-test-docs
+    backstage.io/techdocs-ref: url:https://github.com/Dviejopomata/backstage-test-docs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "dviejo"
