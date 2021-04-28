@@ -1,6 +1,6 @@
 ## doc-test
 
-Test description
+Test description.
 
 ## Getting started
 
